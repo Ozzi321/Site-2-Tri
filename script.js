@@ -9,7 +9,7 @@ const perguntas = [
         enunciado: "Você acaba de terminar o ensino médio, e uma pergunta é feita a você, o que você pretende fazer?",
         alternativas: [
             {
-                texto: "Não sei ainda não pensei em nada.",
+                texto: "Não sei ainda, não pensei em nada.",
                 afirmacao: "Você ficou tranquilo enquanto estudava e nem pensou nisso. "
             },
             {
